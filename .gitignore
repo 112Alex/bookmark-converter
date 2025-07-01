@@ -1,3 +1,4 @@
 bookmarks.db
 .cursor
 go.sum
+main_test.go
